@@ -1,24 +1,26 @@
-# datascience
+# datascience.com
 Repository to IA projects
 
 To create a new Oracle Cloud trial Access:
+
 https://www.oracle.com/cloud/free/
 
 To create a new datascience project follow the step-by-step on this link:
+
 https://docs.cloud.oracle.com/en-us/iaas/data-science/using/configure-tenancy.htm
 
 For this projec you will need do download the following python librieries
 
-## OpenCV
+### OpenCV
 Here you can install opencv
 
  ```pip install opencv-python```
 
-## ImUtils
+### ImUtils
 
 ```pip install --upgrade imutils```
 
-## Dlib
+### Dlib
 Here you download the dlib 
 
 ```sudo apt-get install cmake
