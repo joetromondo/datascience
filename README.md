@@ -1,4 +1,4 @@
-# datascience.com
+# Oracle datascience
 
 Checkout the linkedinpost at:
 https://www.linkedin.com/posts/albertocardoso_oraclecloud-oci-ai-activity-6642842846527279104-tGLG
