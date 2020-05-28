@@ -1,4 +1,8 @@
 # datascience.com
+
+Checkout the linkedinpost at:
+https://www.linkedin.com/posts/albertocardoso_oraclecloud-oci-ai-activity-6642842846527279104-tGLG
+
 Repository to IA projects
 
 To create a new Oracle Cloud trial Access:
